@@ -13,6 +13,3 @@ let count = 0;
 for(let count = 1; count <= 20; count++){
   console.log(count);
 }
-if(count = 20){
-  console.log('descanso');
-}
