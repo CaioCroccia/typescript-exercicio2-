@@ -15,7 +15,4 @@ for(let count = 1; count <= 20; count++){
 }
 if(count = 20){
   console.log('descanso');
-  for(let count = 10; count <= 11; count--){
-    console.log(count);
-  }
 }
